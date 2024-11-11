@@ -1,0 +1,29 @@
+.results-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .results-content {
+    text-align: center;
+    width: 80%;
+    max-width: 800px;
+    padding: 20px;
+  
+  }
+  
+  
+  .summary-text p {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #000000;
+  }
+  
+
+  @media (max-width: 768px) {
+    .results-content {
+      width: 80%;
+    }
+  }
+  

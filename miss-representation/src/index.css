@@ -1,0 +1,24 @@
+/* Global Body Styling */
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif; /* Main body font */
+  background-color: rgb(251, 241, 247); /* Soft pink background */
+  color: #000000; 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Code Styling */
+code {
+  font-family: 'Poppins', sans-serif;
+  color: #2A2A2A; 
+  padding: 3px 5px;
+  border-radius: 3px;
+}
+
+/* Heading Styling */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', sans-serif; 
+  color: rgb(246, 0, 119);
+  margin: 0;
+}

@@ -1,0 +1,40 @@
+.home-container {
+    background-color: transparent;
+    color: #F5F5F5; 
+    text-align: center;
+
+}
+
+.home-header {
+    font-size: 3rem;
+    margin-top: 40px;
+    font-weight: bold;
+}
+
+.home-logo {
+    width: 400px;
+    height: auto;
+    margin: 20px 0;
+    background-color: transparent;
+}
+
+.home-description {
+    font-size: 1.5rem;
+    color: black;
+    margin: 20px 0;
+}
+
+.try-it-out-button {
+    padding: 15px 30px;
+    font-size: 1.25rem;
+    color: #0A0A0A; 
+    background-color: rgb(246, 0, 119);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.try-it-out-button:hover {
+    background-color: #e4c144; /* Gold */
+}

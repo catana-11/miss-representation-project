@@ -1,0 +1,14 @@
+.aboutus-container {
+    padding-left: 200px;
+    padding-right: 200px;
+    text-align: left;
+    font-size: 1.25rem;
+    margin-top: 20px;
+}
+
+.aboutus-header {
+    font-size: 2.5rem;
+    font-weight: bold;
+
+}
+
