@@ -23,7 +23,7 @@ Miss Representation boasts high scalability, allowing for integration with vario
 #### 1. Install Dependencies:
 ```bash
 pip install -r requirements.txt
-
+```
 #### 2. Run the Python backend:
 (Make sure to enter your Gemini API key into the code.)
 Navigate to backend-python folder and type: python app.py 
