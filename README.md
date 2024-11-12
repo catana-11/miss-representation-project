@@ -21,15 +21,20 @@ Miss Representation boasts high scalability, allowing for integration with vario
 ### Getting Started
 
 #### 1. Install Dependencies:
-```bash
+```terminal
 pip install -r requirements.txt
 ```
 #### 2. Run the Python backend:
 (Make sure to enter your Gemini API key into the code.)
-Navigate to backend-python folder and type: python app.py 
-
+Navigate to backend-python folder and type in terminal:
+```terminal
+python app.py 
+```
 #### 3. Run the React app:
-Navigate to miss-representation folder and type: npm start
+Navigate to miss-representation folder and type in terminal:
+```terminal
+npm start
+```
 
 #### 4. You can now see the web application being hosted at your LocalHost.
 Please note that:
