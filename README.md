@@ -23,3 +23,20 @@ Miss Representation boasts high scalability, allowing for integration with vario
 #### 1. Install Dependencies:
 ```bash
 pip install -r requirements.txt
+
+#### 2. Run the Python backend:
+(Make sure to enter your Gemini API key into the code.)
+Navigate to backend-python folder and type: python app.py 
+
+#### 3. Run the React app:
+Navigate to miss-representation folder and type: npm start
+
+#### 4. You can now see the web application being hosted at your LocalHost.
+Please note that:
+If you use YouTube URL, the audio downloading and transcribing will take time based on the video length, so do be patient.
+My recommendation would be to use about a 5 min video for quicker results.
+Example: https://youtu.be/lV_P57THNbc?si=f5-rj2-aa5RuZCQm
+
+
+
+
